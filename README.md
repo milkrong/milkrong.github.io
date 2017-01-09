@@ -7,8 +7,11 @@ This is my page for taking notes about my course-works during free time and stud
 
 2017-01-09 Taking notes for all projects I'v finished before
 
+***
 
 ### Projects
+
+***
 
 #### 1.FPV
 
@@ -27,11 +30,12 @@ The project considering the problem that student may meet *sudden rain* after cl
 
 **Method**: 
 
--Process the information and control the lock with Arm board(control software built by **C**)
--Information I/O conducted by NFC (io port spi)
--Human Interface with a touch screen (**The OS based on QT**)
--Transfer the information through the Internet and build a sql on the service with *MySQL*
+- Process the information and control the lock with Arm board(control software built by **C**)
+- Information I/O conducted by NFC (io port spi)
+- Human Interface with a touch screen (**The OS based on QT**)
+- Transfer the information through the Internet and build a sql on the service with *MySQL*
           
+***
 
 ### Jekyll Themes
 
