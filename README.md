@@ -6,7 +6,7 @@ This is my page for taking notes about my course-works during free time and stud
 ### The Newest Update
 
 2017-01-09 Taking notes for all projects I'v finished before
--
+
 ### Projects
 
 #### 1.FPV
@@ -14,7 +14,7 @@ This is my page for taking notes about my course-works during free time and stud
 This is the project for my graduation from my college. An equipment for dirve air-grone with VR-headset.
 *Device Included*: 2 wifi dongles, a single-board like raspberry pi, air-drone, VR headset, PC
 *Method*: Capture Video -> Send Stream through wifi dongles -> Show Video on PC
--
+
 
 #### 2.Public Umbrella Rental Sys
 
