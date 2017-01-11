@@ -56,7 +56,7 @@ other project built in free-time
 
 **Chatting room**: [chattingRoom](https://github.com/milkrong/Flask-chatting-room)
 
-
+**proxy**: [proxy](https://github.com/milkrong/proxy-Server)
 
 ***
 
