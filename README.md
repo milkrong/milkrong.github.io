@@ -48,7 +48,15 @@ This is snake running on a FPGA board with VerilogHDL
 - The position of snake's food is deployed by a random function.
 -  The RGB signal is output through the VGA port finally.
 
-**Link**: [snake-game](https://github.com/milkrong/FPGA-Snake-Game)          
+**Link**: [snake-game](https://github.com/milkrong/FPGA-Snake-Game)        
+
+#### 4.Others
+
+other project built in free-time 
+
+**Chatting room**: [chattingRoom](https://github.com/milkrong/Flask-chatting-room)
+
+
 
 ***
 
