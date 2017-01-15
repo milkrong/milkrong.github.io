@@ -54,6 +54,8 @@ This is snake running on a FPGA board with VerilogHDL
 
 other project built in free-time 
 
+**chatting robot**: with the help of turing robot api building the [robot](https://github.com/milkrong/MyTuringRobot)
+
 **Chatting room**: [chattingRoom](https://github.com/milkrong/Flask-chatting-room)
 
 **proxy**: [proxy](https://github.com/milkrong/proxy-Server)
