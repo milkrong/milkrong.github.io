@@ -42,11 +42,12 @@ This is snake running on a FPGA board with VerilogHDL
 **Deivce Included**: FPGA, PS2 keyboard, VGA screen
 
 **Method** :
+
 - All pixel movement is controlled by the **status machine**
 - Keyboard send serial signal to control the movement of snake
 - The movement of  snake is judgemented by the cuurent position and commands from the keyboard.
 - The position of snake's food is deployed by a random function.
--  The RGB signal is output through the VGA port finally.
+- The RGB signal is output through the VGA port finally.
 
 **Link**: [snake-game](https://github.com/milkrong/FPGA-Snake-Game)        
 
