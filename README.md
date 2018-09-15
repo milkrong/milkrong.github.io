@@ -7,6 +7,8 @@ This is my page for taking notes about my course-works during free time and stud
 
 2017-01-09 Taking notes for all projects I'v finished before
 
+2018-09-12 Updating the Projects during my first year of master program
+
 ***
 
 ### Projects
@@ -31,13 +33,13 @@ The project considering the problem that student may meet *sudden rain* after cl
 **Method**:
 
 - Process the information and control the lock with Arm board(control software built by **C**)
-- Information I/O conducted by NFC (io port spi)
+- Information I/O conducted by NFC (I/O port, SPI)
 - Human Interface with a touch screen (**The emOS based on QT**)
-- Transfer the information through the Internet and build a sql on the service with *MySQL*
+- Transfer the information through the Internet and build a sql on the server with *MySQL*
 
 #### 3. FPGA-Snake-Game
 
-This is snake running on a FPGA board with VerilogHDL
+This is snake running on a FPGA board with Verilog HDL
 
 **Deivce Included**: FPGA, PS2 keyboard, VGA screen
 
@@ -45,7 +47,7 @@ This is snake running on a FPGA board with VerilogHDL
 
 - All pixel movement is controlled by the **status machine**
 - Keyboard send serial signal to control the movement of snake
-- The movement of  snake is judgemented by the cuurent position and commands from the keyboard.
+- The movement of  snake is judged by the current position and commands from the keyboard.
 - The position of snake's food is deployed by a random function.
 - The RGB signal is output through the VGA port finally.
 
@@ -53,7 +55,7 @@ This is snake running on a FPGA board with VerilogHDL
 
 #### 4.Others
 
-other project built in free-time 
+other project built in free-time
 
 **chatting robot**: with the help of turing robot api building the [robot](https://github.com/milkrong/MyTuringRobot)
 
@@ -61,7 +63,18 @@ other project built in free-time
 
 **proxy**: [proxy](https://github.com/milkrong/proxy-Server)
 
-***
+### 5. Coffee shop
+
+A online coffee shop
+
+**Framework**: Laravel, Boostrap
+
+**Backend Support**: MySql, PHP, Digital Ocean VM
+
+**Method**: MVC design.
+
+**Link**: [coffeeShop](https://github.com/milkrong/DBMfinal.git)
+
 
 ### Jekyll Themes
 
