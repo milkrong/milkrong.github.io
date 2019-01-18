@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Pages
 
-This is my page for taking notes about my course-works during free time and study.
+Welcome to my homepage. There are a list of projects which are finished or working on. 
 
 
 ### The Newest Update
@@ -9,11 +9,27 @@ This is my page for taking notes about my course-works during free time and stud
 
 2018-09-12 Updating the Projects during my first year of master program
 
+2019-01-18 Updating during my second year in Master Program in Upitt.
+
 ***
 
 ### Projects
 
-#### 1.FPV
+#### 1.Social Media for Music Lovers
+
+The project was built by MEVN stack. Thanks the help of Vue Framework, we can finished the job in a few months.
+
+**Tech Stack**: MongDD, ExpressJS, NodeJS, VueJS
+
+**Method**:
+
+- Frontend View is built by Boostrap 4.0. 
+- Frontend interface is built by Vue Scaffold.
+- The main service is built by express service. And databse we used is mongoDB
+- The authentication is fullfilled by jwt-token and passport packages.
+
+
+#### 2.FPV
 
 This is the project for my graduation from my college. An equipment for dirve air-grone with VR-headset.
 
@@ -23,8 +39,8 @@ This is the project for my graduation from my college. An equipment for dirve ai
 
 **Link**: [VR-DRONE](https://github.com/milkrong/VR-DRONE)
 
+#### 3.Public Umbrella Rental Sys
 
-#### 2.Public Umbrella Rental Sys
 
 The project considering the problem that student may meet *sudden rain* after class on campus.
 
@@ -37,33 +53,8 @@ The project considering the problem that student may meet *sudden rain* after cl
 - Human Interface with a touch screen (**The emOS based on QT**)
 - Transfer the information through the Internet and build a sql on the server with *MySQL*
 
-#### 3. FPGA-Snake-Game
 
-This is snake running on a FPGA board with Verilog HDL
-
-**Deivce Included**: FPGA, PS2 keyboard, VGA screen
-
-**Method** :
-
-- All pixel movement is controlled by the **status machine**
-- Keyboard send serial signal to control the movement of snake
-- The movement of  snake is judged by the current position and commands from the keyboard.
-- The position of snake's food is deployed by a random function.
-- The RGB signal is output through the VGA port finally.
-
-**Link**: [snake-game](https://github.com/milkrong/FPGA-Snake-Game)        
-
-#### 4.Others
-
-other project built in free-time
-
-**chatting robot**: with the help of turing robot api building the [robot](https://github.com/milkrong/MyTuringRobot)
-
-**Chatting room**: [chattingRoom](https://github.com/milkrong/Flask-chatting-room)
-
-**proxy**: [proxy](https://github.com/milkrong/proxy-Server)
-
-### 5. Coffee shop
+### 4. Coffee shop
 
 A online coffee shop
 
@@ -74,6 +65,17 @@ A online coffee shop
 **Method**: MVC design.
 
 **Link**: [coffeeShop](https://github.com/milkrong/DBMfinal.git)
+
+
+#### 5.Others
+
+other project built in free-time
+
+**chatting robot**: with the help of turing robot api building the [robot](https://github.com/milkrong/MyTuringRobot)
+
+**Chatting room**: [chattingRoom](https://github.com/milkrong/Flask-chatting-room)
+
+**proxy**: [proxy](https://github.com/milkrong/proxy-Server)
 
 
 ### Jekyll Themes
